@@ -34,3 +34,15 @@ Jetpack Joyride mainly focuses on **Challenge**, **Sensation**, and **Submission
 **Player types**
 - **Primary: Achiever (Acting × World)**, because the game constantly gives measurable goals such as increasing distance, beating high scores, completing missions and progressing through ranks (M2, M4, M7).
 - **Secondary: Explorer (Interacting × World)**, because players discover how different vehicles, power-ups and systems behave and adapt to them during play (M3).
+
+
+
+## Level blockouts
+
+| Level | Screenshot | Its idea | Wayfinding tool |
+|---|---|---|---|
+| Level01 | <img src="Docs/levels/level01.png" width="320"> | An introductory route connects two enclosed spaces through a narrow bridge, requiring the player to carefully cross the middle section before reaching the goal. | **Landmark:** a tall, brightly coloured pillar beside the goal gives the player a visible destination to move toward. |
+| Level02 | <img src="Docs/levels/level02.png" width="320"> | A split-route level gives the player a choice between a short risky path with gaps and a longer, wider elevated path with ramps. | **Leading lines:** the shapes and edges of the two routes visually guide the player from the spawn room toward the goal room. |
+| Level03 | <img src="Docs/levels/level03.png" width="320"> | A maze forces the player to navigate several turns and corridors before reaching the goal. | **Breadcrumbs:** small yellow markers are placed along the intended route to help guide the player through the maze. |
+| Level04 | <img src="Docs/levels/level04.png" width="320"> | A sequence of separated platforms rises toward a central peak and then descends toward the goal, requiring repeated jumps. In a scripted version, the highest platform could move horizontally or vertically to increase the challenge. | **Contrast:** the yellow platforms stand out clearly from the surrounding grey geometry and show the intended traversal route. |
+| Level05 | <img src="Docs/levels/level05.png" width="320"> | An elevated route winds around a large central tower before the player reaches the final goal area. | **Framing:** a bright yellow arch frames the entrance to the goal room and draws attention toward the destination. |
