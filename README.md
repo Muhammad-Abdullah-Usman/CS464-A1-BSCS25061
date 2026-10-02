@@ -2,7 +2,7 @@
 
 ## Game 1 · Jetpack Joyride
 
-- **Store link:** [ADD GOOGLE PLAY LINK]
+- **Store link:** [https://play.google.com/store/apps/details?id=com.halfbrick.jetpackjoyride&hl=en&pli=1]
 - **Genre:** Endless runner / arcade
 - **I played:** Approximately 33 minutes, completed the tutorial, reached Rookie rank 3, and achieved a best distance of 1,441 m.
 
@@ -14,8 +14,8 @@
 </p>
 
 1. **[M1, M6]** · Jetpack movement during a run while collecting coins.
-2. **[M3]** · A vehicle pickup changes the normal movement system and temporarily protects the player.
-3. **[M4]** · Missions give the player specific objectives that influence how each run is played.
+2. **[M4]** · Missions give the player specific objectives that influence how each run is played.
+3. **[M3]** · A vehicle pickup changes the normal movement system and temporarily protects the player.
 4. **[M2]** · The game records distance and saves the player's best distance as a high score.
 
 | # | Mechanic | Dynamic | Aesthetic | Bartle type |
